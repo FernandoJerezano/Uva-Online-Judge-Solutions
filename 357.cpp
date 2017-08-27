@@ -5,6 +5,8 @@
 #include <bits/stdc++.h>
 #define MAX 30001
 
+using namespace std;
+
 typedef long long int ll;
 
 ll ways[MAX];
