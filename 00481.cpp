@@ -1,4 +1,4 @@
-// Problema:	481 - What Goes Up
+// Problema:		481 - What Goes Up
 // Autor:		FernandoJerezano
 // Fecha:		28-Agosto-2017
 #include <iostream>
