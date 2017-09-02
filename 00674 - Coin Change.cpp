@@ -39,6 +39,7 @@ int main(){
         printf("%d\n",ways[cents]);
 
     }
+    
     return 0;
 }
 
