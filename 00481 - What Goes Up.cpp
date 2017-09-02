@@ -1,6 +1,6 @@
-// Problema:		481 - What Goes Up
-// Autor:		FernandoJerezano
-// Fecha:		28-Agosto-2017
+// Problema:	481 - What Goes Up
+// Autor:	FernandoJerezano
+// Fecha:	28-Agosto-2017
 #include <iostream>
 #include <bits/stdc++.h>
 #define MAX_N 100005
