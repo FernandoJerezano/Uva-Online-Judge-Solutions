@@ -45,6 +45,6 @@ int main(){
             printf("There are %lld ways to produce %lld cents change.\n",ways[n],n);
         }
     }
-
+    
     return 0;
 }
