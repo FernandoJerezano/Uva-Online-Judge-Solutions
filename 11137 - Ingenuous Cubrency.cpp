@@ -57,6 +57,6 @@ int main(){
     while(scanf("%lld",&n)!=EOF){
         printf("%lld\n",ways[n]);
     }
-    
+        
     return 0;
 }
