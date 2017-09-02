@@ -1,6 +1,6 @@
-// Problema:  10130 - SuperSale
-// Autor:     FernandoJerezano
-// Fecha:     30-Agosto-2017
+// Problema:	10130 - SuperSale
+// Autor:	FernandoJerezano
+// Fecha:	30-Agosto-2017
 import java.io.*;
 
 class Main{
@@ -78,7 +78,5 @@ class Main{
 		if(table[id][rw]!=-1)	return table[id][rw];
 		if(W[id]>rw)			return table[id][rw] = val_td(id+1,rw);
 		return table[id][rw] = max(val_td(id+1,rw),V[id]+val_td(id+1,rw-W[id]));
-	}
-	
-	
+	}	
 }
