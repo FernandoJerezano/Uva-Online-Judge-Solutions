@@ -55,6 +55,5 @@ int main(){
             printf("%.2lf% 17lld\n",d,ways[n]);
         }
     }
-
     return 0;
 }
