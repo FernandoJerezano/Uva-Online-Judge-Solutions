@@ -37,7 +37,6 @@ int main(){
 			sum+=arr[i];
 		}
 		printf("%d\n",-sum);
-	}
-	
+	}	
 	return 0;
 }
