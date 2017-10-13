@@ -1,6 +1,6 @@
-// Problema:	10130 - SuperSale
-// Autor:	FernandoJerezano
-// Fecha:	30-Agosto-2017
+// Problema: 10130 - SuperSale
+// Autor:    FernandoJerezano
+// Fecha:    30-Agosto-2017
 import java.io.*;
 	
 class Main{
