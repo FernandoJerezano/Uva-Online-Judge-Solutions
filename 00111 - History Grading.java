@@ -1,6 +1,6 @@
-// Problema:	111 - History Grading
-// Autor:	FernandoJerezano
-// Fecha:	31-Agosto-2017
+// Problema: 111 - History Grading
+// Autor:    FernandoJerezano
+// Fecha:    31-Agosto-2017
 import java.io.*;
 
 class Main{
