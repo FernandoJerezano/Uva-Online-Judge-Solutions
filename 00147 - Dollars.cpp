@@ -1,6 +1,6 @@
-// Problema:    147 - Dollars
-// Autor:       FernandoJerezano
-// Fecha:       27-Agosto-2017
+// Problema: 147 - Dollars
+// Autor:    FernandoJerezano
+// Fecha:    27-Agosto-2017
 #include <iostream>
 #include <bits/stdc++.h>
 #define MAX 30001
