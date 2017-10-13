@@ -1,6 +1,6 @@
-// Problema:	108 - Maximum Sum
-// Autor:		  FernandoJerezano
-// Fecha:		  08-Septiembre-2017
+// Problema: 108 - Maximum Sum
+// Autor:    FernandoJerezano
+// Fecha:    08-Septiembre-2017
 #include <bits/stdc++.h>
 #define MAX_N 105
 
