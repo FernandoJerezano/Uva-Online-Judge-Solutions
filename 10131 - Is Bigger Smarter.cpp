@@ -1,6 +1,6 @@
-// Problema:	10131 - Is Bigger Smarter?
-// Autor:	FernandoJerezano
-// Fecha:	01-Septiembre-2017
+// Problema: 10131 - Is Bigger Smarter?
+// Autor:    FernandoJerezano
+// Fecha:    01-Septiembre-2017
 #include <iostream>
 #include <bits/stdc++.h>
 
