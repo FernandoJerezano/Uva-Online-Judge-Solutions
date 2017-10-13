@@ -1,6 +1,6 @@
-// Problema:  10664 - Luggage
-// Autor:     FernandoJerezano
-// Fecha:     28-Septiembre-2017
+// Problema: 10664 - Luggage
+// Autor:    FernandoJerezano
+// Fecha:    28-Septiembre-2017
 import java.io.*;
 
 class Main{
