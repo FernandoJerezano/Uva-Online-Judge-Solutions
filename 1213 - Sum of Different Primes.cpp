@@ -1,6 +1,6 @@
 // Problema:	1213 - Sum of Different Primes
-// Autor:     FernandoJerezano
-// Fecha:     02-Octubre-2017
+// Autor:     	FernandoJerezano
+// Fecha:     	02-Octubre-2017
 #include <iostream>
 #include <bits/stdc++.h>
 #define MAX_N 1121
