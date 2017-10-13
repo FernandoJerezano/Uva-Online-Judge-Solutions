@@ -1,6 +1,6 @@
-// Problema:    357 - Let Me Count The Ways
-// Autor:       FernandoJerezano
-// Fecha:       27-Agosto-2017
+// Problema: 357 - Let Me Count The Ways
+// Autor:    FernandoJerezano
+// Fecha:    27-Agosto-2017
 #include <iostream>
 #include <bits/stdc++.h>
 #define MAX 30001
