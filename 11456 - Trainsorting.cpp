@@ -1,6 +1,6 @@
-// Problema:	11456 - Trainsorting
-// Autor:		  FernandoJerezano
-// Fecha:		  03-Septiembre-2017
+// Problema: 11456 - Trainsorting
+// Autor:    FernandoJerezano
+// Fecha:    03-Septiembre-2017
 #include <iostream>
 #include <bits/stdc++.h>
 #define MAX_N 2005
