@@ -1,6 +1,6 @@
-// Problema:	11703 - sqrt log sin
-// Autor:	FernandoJerezano
-// Fecha:	05-Septiembre-2017
+// Problema: 11703 - sqrt log sin
+// Autor:    FernandoJerezano
+// Fecha:    05-Septiembre-2017
 #include <iostream>
 #include <bits/stdc++.h>
 #define MAX_N 1000005
