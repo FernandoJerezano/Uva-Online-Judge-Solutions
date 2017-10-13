@@ -1,6 +1,6 @@
-// Problema:    11137 - Ingenuous Cubrency
-// Autor:       FernandoJerezano
-// Fecha:       27-Agosto-2017
+// Problema: 11137 - Ingenuous Cubrency
+// Autor:    FernandoJerezano
+// Fecha:    27-Agosto-2017
 #include <iostream>
 #include <bits/stdc++.h>
 #define MAX 10001
