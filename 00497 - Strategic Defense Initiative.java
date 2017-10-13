@@ -1,6 +1,6 @@
-// Problema:	497 - Strategic Defense Initiative
-// Autor:	FernandoJerezano
-// Fecha:	02-Septiembre-2017
+// Problema: 497 - Strategic Defense Initiative
+// Autor:    FernandoJerezano
+// Fecha:    02-Septiembre-2017
 import java.io.*;
 
 class Main{
