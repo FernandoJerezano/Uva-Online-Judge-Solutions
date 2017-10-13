@@ -1,6 +1,6 @@
-// Problema:    674 - Coin Change
-// Autor:       FernandoJerezano
-// Fecha:       27-Agosto-2017
+// Problema: 674 - Coin Change
+// Autor:    FernandoJerezano
+// Fecha:    27-Agosto-2017
 #include <iostream>
 #include <bits/stdc++.h>
 #define MAX 8001
