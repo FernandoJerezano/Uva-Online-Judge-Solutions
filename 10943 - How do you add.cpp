@@ -1,6 +1,6 @@
-// Problema:	10943 - How do you add?
-// Autor: 		FernandoJerezano
-// Fecha:     08-Septiembre-2017
+// Problema: 10943 - How do you add?
+// Autor:    FernandoJerezano
+// Fecha:    08-Septiembre-2017
 #include <iostream>
 #include <bits/stdc++.h>
 #define MAX_N 105
