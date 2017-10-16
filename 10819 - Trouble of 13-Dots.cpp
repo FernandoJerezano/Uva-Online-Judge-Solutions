@@ -1,4 +1,4 @@
-// Problema: 10819 Trouble of 13-Dots
+// Problema: 10819 - Trouble of 13-Dots
 // Autor:    FernandoJerezano
 // Fecha:    15-Octubre-2017
 #include <iostream>
