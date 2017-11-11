@@ -1,6 +1,6 @@
-//Problema: 755 - 487–3279
-// Autor:   FernandoJerezano
-// Fecha:   10-Noviembre-2017
+// Problema: 755 - 487–3279
+// Autor:    FernandoJerezano
+// Fecha:    10-Noviembre-2017
 import java.io.*;
 import java.util.*;
 
