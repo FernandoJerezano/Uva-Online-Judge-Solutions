@@ -1,7 +1,6 @@
 // Problema: 10464 - Big Big Real Numbers
 // Autor:    FernandoJerezano
 // Fecha:    30-Diciembre-2017
-
 import java.io.*;
 import java.math.*;
 
