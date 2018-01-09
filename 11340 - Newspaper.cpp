@@ -1,6 +1,6 @@
 // Problema: 11340 - Newspaper
 // Autor:    FernandoJerezano
-// Fecha:    02-Enero-2018
+// Fecha:    05-Enero-2018
 #include <iostream>
 #include <bits/stdc++.h>
 
