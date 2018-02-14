@@ -1,6 +1,6 @@
 // Problema: 10919 - Prerequisites?
 // Autor:    FernandoJerezano
-// Fecha:    04-Febrero-2018
+// Fecha:    11-Febrero-2018
 #include <iostream>
 #include <bits/stdc++.h>
 
